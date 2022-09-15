@@ -39,3 +39,7 @@ Ray casting is distinct from ray tracing, with ray casting being a rendering alg
 
 ## 4: Create a auto-login system for students at Milton Academy
 -discription comming soon
+
+## 5: Improve Projection Perspective Project
+-make it work in a simulated enviorment
+-make it work on non planar surfaces
