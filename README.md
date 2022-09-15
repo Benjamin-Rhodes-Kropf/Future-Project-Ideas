@@ -43,3 +43,6 @@ Ray casting is distinct from ray tracing, with ray casting being a rendering alg
 ## 5: Improve Projection Perspective Project
 -make it work in a simulated enviorment
 -make it work on non planar surfaces
+https://user-images.githubusercontent.com/85074410/190292387-17cf1fd0-5330-4c58-8e89-5dfcdca15270.mp4
+
+
