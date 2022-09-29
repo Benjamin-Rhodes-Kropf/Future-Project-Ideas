@@ -1,5 +1,5 @@
 # Future-Projects
-A bunch of future projects/updates that I plan to make
+A bunch of future projects/updates that I plan to make sometime soon
 
 ## 1: RayMarchingRender
 -a ray marching render with normals and shadows\
