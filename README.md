@@ -48,4 +48,5 @@ Ray casting is distinct from ray tracing, with ray casting being a rendering alg
 
 https://user-images.githubusercontent.com/85074410/163735232-982fe0c4-acb8-48e7-9a14-53c3ca268162.mp4 
 
+## 6: Writing my own compute shader to produce cool visuals
 
